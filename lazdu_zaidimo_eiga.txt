@@ -1,0 +1,27 @@
+Žaidėjų vardai: kestutis ir vytautas.
+Lazdelių pasirinktas skaičius yra 10.
+Žaidimą pradeda kestutis
+kestutis paima 2 lazdeles. Liko 8
+vytautas paima 3 lazdeles. Liko 5
+kestutis paima 1 lazdeles. Liko 4
+vytautas paima 2 lazdeles. Liko 2
+kestutis paima 1 lazdeles. Liko 1
+vytautas paima 1 lazdeles. Liko 0
+Žaidimą laimėjo kestutis.
+Žaidėjų vardai: kestutis ir vytautas.
+Lazdelių pasirinktas skaičius yra 10.
+Žaidimą pradeda vytautas
+vytautas paima 2 lazdeles. Liko 8
+kestutis paima 1 lazdeles. Liko 7
+vytautas paima 1 lazdeles. Liko 6
+kestutis paima 2 lazdeles. Liko 4
+vytautas paima 3 lazdeles. Liko 1
+kestutis paima 1 lazdeles. Liko 0
+Žaidimą laimėjo vytautas.
+Į užklausą „Ar žaisite dar“ pasirinko „Ne“
+Žaidimą žaidė 1 kartą(us)
+Žaidėjų vardai: kestutis ir vytautas.
+Lazdelių pasirinktas skaičius yra 0.
+Žaidimą pradeda vytautas
+Į užklausą „Ar žaisite dar“ pasirinko „Ne“
+Žaidimą žaidė 2 kartą(us)

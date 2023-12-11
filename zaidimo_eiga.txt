@@ -1,0 +1,19 @@
+vartotojas ivede skaiciu 10.
+ sugeneruotas atsitiktinis skaicius 10.
+1 spejimu vartotojas ivede 5. Atsakymas - sugeneruotas skaicius didesnis
+2 spejimu vartotojas ivede 7. Atsakymas - sugeneruotas skaicius didesnis
+3 spejimu vartotojas ivede 8. Atsakymas - sugeneruotas skaicius didesnis
+4 spejimu vartotojas ivede 9. Atsakymas - sugeneruotas skaicius didesnis
+5 spejimu vartotojas atspejo skaiciu
+i uzklausa "ar zaisite dar" vartotojas pasirinko: "taip" 
+vartotojas ivede skaiciu 20.
+ sugeneruotas atsitiktinis skaicius 1.
+1 spejimu vartotojas ivede 12. Atsakymas - sugeneruotas skaicius mazesnis
+2 spejimu vartotojas ivede 10. Atsakymas - sugeneruotas skaicius mazesnis
+3 spejimu vartotojas ivede 8. Atsakymas - sugeneruotas skaicius mazesnis
+4 spejimu vartotojas ivede 6. Atsakymas - sugeneruotas skaicius mazesnis
+5 spejimu vartotojas ivede 4. Atsakymas - sugeneruotas skaicius mazesnis
+6 spejimu vartotojas ivede 2. Atsakymas - sugeneruotas skaicius mazesnis
+7 spejimu vartotojas atspejo skaiciu
+i uzklausa "ar zaisite dar" vartotojas pasirinko: "ne" 
+vartotojas zaide 2 kartus(u)

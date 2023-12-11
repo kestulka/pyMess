@@ -1,0 +1,25 @@
+5
+10
+15
+Rezultatas Nr.5
+5 + 10 + 15 = 30
+Rezultatas Nr.1
+5 + 10 + 15 = 30
+Rezultatas Nr.2
+5 + 10 + 15 = 30
+Rezultatas Nr.3
+5 + 10 + 15 = 30
+Rezultatas Nr.4
+5 + 10 + 15 = 30
+Rezultatas Nr.5
+5 + 10 + 15 = 30
+Rezultatas Nr.1
+5 + 10 + 15 = 30
+Rezultatas Nr.2
+5 + 10 + 15 = 30
+Rezultatas Nr.3
+5 + 10 + 15 = 30
+Rezultatas Nr.4
+5 + 10 + 15 = 30
+Rezultatas Nr.5
+5 + 10 + 15 = 30
